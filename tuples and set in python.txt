@@ -1,0 +1,37 @@
+Collections:-
+1) List:-
+To store multiple values in a single variable.
+List is Mutable
+We can change the value of list
+List is Ordered and changeable
+List can be static and dynamic
+[]
+2) Tuple:-
+Tuple is used to store multiple values in single variable
+Tuple is immutable.
+Tuple is ordered and unchangeable
+Tuple cannot be dynamic 
+()
+
+3) Set:-
+Set is used to store multiple values in a single variable.
+Set is type of collection which is unordered and unindexed.
+Duplicate values will be not allowed in set
+The symbol of set is {}
+
+
+Task:- Take a list and remove duplicate items from list.
+
+Task:- Write a program to reverse the tuple-- slicing
+
+4) Dictionary
+
+
+
+
+
+
+
+
+
+
