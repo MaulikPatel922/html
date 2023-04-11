@@ -1,4 +1,4 @@
-Collections:-
+
 1) List:-
 To store multiple values in a single variable.
 List is Mutable
